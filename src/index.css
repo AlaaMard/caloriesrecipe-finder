@@ -4,6 +4,11 @@ body {
   background: #f4f4f9;
   color: #333;
 }
+@media (max-width: 575.98px) {
+  .card {
+    width: 90%;
+  }
+}
 
 .app {
   text-align: center;
